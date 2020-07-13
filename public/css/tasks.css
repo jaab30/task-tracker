@@ -1,0 +1,8 @@
+
+.task-icon {
+    font-size: 1.4em;
+}
+
+.task-icon:hover {
+    cursor: pointer;
+}
